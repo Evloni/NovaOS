@@ -1,0 +1,3 @@
+[submodule "cloned/toybox"]
+	path = cloned/toybox
+	url = https://github.com/landley/toybox.git
